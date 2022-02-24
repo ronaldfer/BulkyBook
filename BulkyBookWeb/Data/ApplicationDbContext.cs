@@ -10,6 +10,7 @@ namespace BulkyBookWeb.Data
 
         }
 
+        //Category object
         public DbSet<Category> Categories { get; set; } 
     }
 }
